@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8867830-148e-46c9-95f3-45025cc1506b" name="Default Changelist" comment="Lesson_8">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Урок 2. Практическое задание.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Урок 2. Практическое задание.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1/task_8_1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,7 +38,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "preferences.customizations"
+    "last_opened_file_path": "C:/Users/maxim.grekov.V-A-C/Documents/GeekBrains/Семинар 8/Урок 2. Практическое задание",
+    "settings.editor.selected.configurable": "reference.idesettings.emmet"
   }
 }]]></component>
   <component name="RunManager" selected="Python.test">
@@ -130,7 +135,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681287833631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson_8">
+      <created>1681289237078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681289237078</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson_8">
+      <created>1681289335655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681289335655</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson_8">
+      <created>1681289470937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681289470937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
